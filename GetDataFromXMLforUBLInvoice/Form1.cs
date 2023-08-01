@@ -153,5 +153,10 @@ namespace GetDataFromXMLforUBLInvoice
 
             }
         }
+
+        private void VeriEslestir()
+        {
+            
+        }
     }
 }
